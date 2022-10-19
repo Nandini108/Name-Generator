@@ -1,7 +1,6 @@
 rahul
 Abhishek
 Aditya
-mahesh
 Manjul
 Amit
 ROHIT
@@ -20,11 +19,9 @@ rakesh
 rahul
 Abhishek
 Aditya
-mahesh
 rahul
 Abhishek
 Aditya
-mahesh
 Sam
 Naveen
 Ashish
@@ -33,7 +30,6 @@ Arjun
 Manoj
 ankur
 akash
-Karan
 Mayank
 Parth
 vivek
@@ -159,12 +155,10 @@ Charan
 Rehan
 Shivam
 Sushanth
-Harshit
 Harilal
 Harry
 Harimohan
 Kushagra
-Mayank
 Harshit 
 Jai
 Swapni;
@@ -175,10 +169,8 @@ Tapan
 Utkarsh
 Devang
 Subhrat
-Javed
 Asif
 YashRaj
-Nishant
 Nishkrant
 Prajwal
 Shadab
@@ -202,3 +194,15 @@ Sundaram
 Bhavyesh
 Chandresh
 Rishi
+Rajesh
+Gulpreet
+Manjeet
+Manpreet
+Kuldeep
+Rajdeep
+Luv
+Imran
+Namandeep
+Rajat
+Chitransh
+Anuj
