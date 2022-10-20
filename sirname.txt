@@ -82,3 +82,5 @@ Dev
 Tendulkar
 Kohli
 Sah
+Carrier
+Marriott
