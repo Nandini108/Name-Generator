@@ -32,7 +32,7 @@ flowchart LR
 
 
 
-## name-generator-
+# Name-generator
 
 Add your name in the repository helpful for a Full name generator 
 
@@ -41,5 +41,17 @@ Beginner-friendly
 Create your first Pull Request on GitHub
 Chance of receiving a T-Shirt for participating in the Hacktoberfest
 ## How to Contribute (Updated)
-Please pull the changes from this repo if you have already forked the repository and are facing conflicts If you like the repository, please star it.
+- Please pull the changes from this repo if you have already forked the repository and are facing conflicts.
+- If you like the repository, please star it.
+
+<br>
+
+## Awesome contributors :star_struck:
+<a href="https://github.com/Nandini108/Name-Generator/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Nandini108/Name-Generator" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
+
+
 
